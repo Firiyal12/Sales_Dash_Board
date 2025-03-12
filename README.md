@@ -19,6 +19,8 @@ This Power BI project analyzes **sales performance data** to identify trends, to
 3. Connect to your dataset (if required).
 4. Explore interactive visuals and insights.
 
-##This project is Licensed
+## 📝 License
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
+You are free to use and modify it with **proper attribution**.
 
 
