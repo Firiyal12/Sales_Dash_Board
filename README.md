@@ -13,7 +13,7 @@ This Power BI project analyzes **sales performance data** to identify trends, to
 - **Source:** Kaggle
 - **Preprocessing:** Data cleaning and transformations were performed using Power Query.
 
-## 🛠 Installation & Usage
+##  Installation & Usage
 1. Download the `.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
 3. Connect to your dataset (if required).
