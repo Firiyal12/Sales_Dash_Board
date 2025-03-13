@@ -7,7 +7,7 @@ This Power BI project analyzes **sales performance data** to identify trends, to
 
 The dataset contains information on individual sales transactions, including quantity, total price, and total profit.
 By aggregating sales, we can determine the top-selling car models and most profitable brands.
-8*Top Car Brands & Models:**
+**Top Car Brands & Models:**
 
 The Models sheet provides details on car brands, models, segments, engine sizes, and fuel types.
 By linking sales data, we can identify the most popular and profitable car models.
@@ -15,7 +15,7 @@ By linking sales data, we can identify the most popular and profitable car model
 
 The Dealers sheet maps dealership names to locations (cities & countries).
 We can analyze sales distribution across different regions and dealerships.
-** Analysis:**
+**Analysis:**
 
 Each model has a specific price and profit margin.
 Identifying high-profit models and brands can help optimize dealership strategies.
