@@ -2,20 +2,20 @@
 ##  Project Overview
 This Power BI project analyzes **sales performance data** to identify trends, top-selling cars, and  sales distribution. The dashboard provides insights into Revenue by Country, Quanity sold , Profits made. **Helping businesses make data-driven decisions.**
 
-##Key Insights from the Dataset:
+## Key Insights from the Dataset:
 **Sales Performance:**
 
 The dataset contains information on individual sales transactions, including quantity, total price, and total profit.
 By aggregating sales, we can determine the top-selling car models and most profitable brands.
-Top Car Brands & Models:
+8*Top Car Brands & Models:**
 
 The Models sheet provides details on car brands, models, segments, engine sizes, and fuel types.
 By linking sales data, we can identify the most popular and profitable car models.
-Dealership Insights:
+**Dealership Insights:**
 
 The Dealers sheet maps dealership names to locations (cities & countries).
 We can analyze sales distribution across different regions and dealerships.
-Profitability Analysis:
+** Analysis:**
 
 Each model has a specific price and profit margin.
 Identifying high-profit models and brands can help optimize dealership strategies.
