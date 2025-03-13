@@ -1,6 +1,6 @@
 # Sales_Dash_Board
 ##  Project Overview
-This Power BI project analyzes **sales performance data** to identify trends, top-selling cars, and  sales distribution. The dashboard provides insights into Revenue by Country, Quanity sold , Profits made. **Helping businesses make data-driven decisions.**
+This Power BI project analyzes **sales performance data** to identify trends, top-selling cars, and  sales distribution. The dashboard provides insights into Revenue by Country, Quanity sold , Profits made. **To help businesses make data-driven decisions.**
 
 ## Key Insights from the Dataset:
 
